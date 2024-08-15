@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C1UcJgC9Hoc=",
+  "success": true,
+  "projectFilePath": "A:\\GitHub\\UtilityLauncher\\UtilityLauncher\\UtilityLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\unsee\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\unsee\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\unsee\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
